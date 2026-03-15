@@ -70,8 +70,8 @@ Para que exista un "juego" bajo esta teoría, deben estar presentes estos compon
 
 ## ⚙️ Instalación y Ejecución
 
-1. **Clonar el repositorio.**
-2. **Instalar dependencias** :Utilizar Cmd o powershell(con permisos de administrador) utilizando las siguientes funciones
+1. **Descargar Archivos.py**
+2. **Instalar dependencias**: Utilizar Cmd o powershell(con permisos de administrador) utilizando el siguiente codigo
    ```bash
    pip install numpy matplotlib
-3. **Ejecutar los archivos**
+3. **Ejecutar los archivos.py**
