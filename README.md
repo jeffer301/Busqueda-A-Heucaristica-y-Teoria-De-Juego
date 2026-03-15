@@ -78,5 +78,5 @@ Para que exista un "juego" bajo esta teoría, deben estar presentes estos compon
 
 
 ## 📈 Conclusión del Proyecto
-Gracias a esta investigacion podemos ver que el algoritmo A* es una de las mejores soluciones que podemos utilzar para explorar grafos, gracias al uso de la heurística. Y en la teoria de juegos podemos
-ver la racionalidad que otras personas podrian llegar a tener como reaccion frente a ciertas situaciones.
+Gracias a esta investigacion podemos ver que el algoritmo A* es una de las mejores soluciones que podemos utilzar para explorar grafos, gracias al uso de la heurística.
+en la teoria de juegos podemos ver la racionalidad de las personas y predecir cuales podrian ser sus posibles acciones
